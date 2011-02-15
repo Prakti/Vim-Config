@@ -13,3 +13,15 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/prakti-python"]
+	path = bundle/prakti-python
+	url = git://github.com/Prakti/Vim-python-ftplugin.git
+[submodule "bundle/prakti"]
+	path = bundle/prakti
+	url = git://github.com/Prakti/Vim-custom-plugin.git
+[submodule "bundle/prakti-nesc"]
+	path = bundle/prakti-nesc
+	url = git://github.com/Prakti/Vim-nesc-ftplugin.git
+[submodule "bundle/prakti-vim"]
+	path = bundle/prakti-vim
+	url = git://github.com/Prakti/Vim-vimscript-ftplugin.git
