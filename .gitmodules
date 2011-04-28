@@ -25,3 +25,6 @@
 [submodule "bundle/prakti-vim"]
 	path = bundle/prakti-vim
 	url = git://github.com/Prakti/Vim-vimscript-ftplugin.git
+[submodule "bundle/vim-colors-soslarized"]
+	path = bundle/vim-colors-soslarized
+	url = git://github.com/altercation/vim-colors-solarized.git
