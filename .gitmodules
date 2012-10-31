@@ -43,3 +43,6 @@
 [submodule "bundle/YankRing"]
 	path = bundle/YankRing
 	url = https://github.com/vim-scripts/YankRing.vim.git
+[submodule "bundle/vim-colors-hemisu"]
+	path = bundle/vim-colors-hemisu
+	url = https://github.com/noahfrederick/Hemisu.git
